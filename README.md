@@ -6,4 +6,4 @@ Projects in the following languages
 [JAVA]
 
 - CRIMEREPORT
-- SISTEMA ESTOQUE
+- SISTEMA ESTOQUE - Added in Feb, 10th, 2019
